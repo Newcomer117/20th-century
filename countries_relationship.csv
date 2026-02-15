@@ -1,0 +1,83 @@
+,source,target,value
+0,France,Germany,27
+1,Germany,Italy,26
+2,Austria,Germany,11
+3,Germany,Spain,1
+4,France,Spain,1
+5,France,Poland,11
+6,Germany,Poland,29
+7,Estonia,Germany,5
+8,Estonia,Latvia,12
+9,Latvia,Lithuania,6
+10,Finland,Lithuania,11
+11,Finland,Germany,11
+12,Denmark,Poland,5
+13,Denmark,Norway,12
+14,Denmark,Sweden,6
+15,Germany,Sweden,6
+16,Belgium,Germany,5
+17,Belgium,Netherlands,6
+18,Luxembourg,Netherlands,6
+19,Belgium,Luxembourg,5
+20,Belgium,France,6
+21,France,Italy,5
+22,Albania,Greece,12
+23,Greece,Ukraine,4
+24,Belarus,Ukraine,6
+25,Belarus,Libya,3
+26,Egypt,Libya,15
+27,Egypt,Iraq,5
+28,Germany,Japan,29
+29,Germany,Morocco,1
+30,Algeria,Morocco,6
+31,Algeria,Italy,5
+32,China,Japan,30
+33,Japan,Thailand,6
+34,Singapore,Thailand,6
+35,Hong Kong,Singapore,6
+36,Guam,Hong Kong,6
+37,Guam,Japan,16
+38,Japan,Solomon Islands,16
+39,Philippines,Solomon Islands,6
+40,Japan,Philippines,6
+41,India,Japan,12
+42,France,Japan,6
+43,China,France,6
+44,China,India,12
+45,India,Pakistan,18
+46,Israel,Pakistan,6
+47,Israel,South Africa,12
+48,Israel,Libya,5
+49,Germany,Libya,3
+50,Japan,Papua New Guinea,2
+51,India,Papua New Guinea,2
+52,Pakistan,Philippines,6
+53,Cambodia,Philippines,6
+54,Cambodia,Kenya,6
+55,Ghana,Kenya,6
+56,Ghana,Guinea-Bissau,5
+57,Angola,Guinea-Bissau,6
+58,Angola,Mozambique,6
+59,Latvia,Mozambique,1
+60,Estonia,Lithuania,6
+61,Finland,Romania,6
+62,Albania,Romania,5
+63,Albania,Bulgaria,6
+64,Bulgaria,Poland,6
+65,Poland,Romania,6
+66,Hungary,Romania,6
+67,Hungary,Mongolia,5
+68,China,Mongolia,6
+69,China,Cuba,6
+70,Cuba,United States,7
+71,Canada,United States,5
+72,Australia,Canada,6
+73,Cambodia,Cuba,3
+74,Japan,United States,2
+75,India,South Africa,1
+76,Rwanda,South Africa,5
+77,Germany,Norway,6
+78,Greece,Italy,3
+79,Italy,Japan,6
+80,India,Lebanon,2
+81,India,Singapore,5
